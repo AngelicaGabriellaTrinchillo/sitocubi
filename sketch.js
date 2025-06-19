@@ -83,3 +83,6 @@ function draw() {
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
 }
+function keyPressed() {
+  saveGif("f", 8);
+}
