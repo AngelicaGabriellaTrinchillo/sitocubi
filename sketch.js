@@ -84,5 +84,5 @@ function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
 }
 function keyPressed() {
-  saveGif("f", 8);
+  saveGif("TrameUrbaneCubi", 8);
 }
